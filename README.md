@@ -8,4 +8,4 @@ These code samples are provided mainly to support my resume but if you are a dev
 
 For more information, including movies of the code in action please see the GitHub pages here: http://projectguerilla.github.io/Code-Samples/
 
-I've also got a couple of simple tools/examples that I wish I had access to when I first started working with Shotgun in my Shotgun-Code-Snippets reop (https://github.com/ProjectGuerilla/Shotgun-Code-Snippets)
+I've also got a couple of simple tools/examples that I wish I had access to when I first started working with Shotgun in my Shotgun-Code-Snippets repo (https://github.com/ProjectGuerilla/Shotgun-Code-Snippets)
